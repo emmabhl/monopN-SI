@@ -51,3 +51,4 @@ class Plateau:
         """
             Renvoie le terrain se trouvant aux coordonnées (i,j) 
         """
+        return liste_terrains[i][j]
